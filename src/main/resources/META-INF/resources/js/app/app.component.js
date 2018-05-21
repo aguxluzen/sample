@@ -9,11 +9,15 @@ define(["require", "exports", "@angular/core"], function (require, exports, core
     Object.defineProperty(exports, "__esModule", { value: true });
     var AppComponent = /** @class */ (function () {
         function AppComponent() {
-            this.caption = 'Hello world!';
         }
+        AppComponent.prototype.onSubmit = function () {
+        };
         AppComponent = __decorate([
             core_1.Component({
-                template: "\n\t\t<div>{{caption}}</div>\n        "
+                templateUrl: "app.component.html",
+                styles: [
+                    "\n            .example-form {\n                min-width: 150px;\n                max-width: 500px;\n                width: 100%;\n            }\n\n            .example-full-width {\n                width: 100%;\n            }\n        "
+                ]
             })
         ], AppComponent);
         return AppComponent;

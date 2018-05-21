@@ -3,6 +3,7 @@ import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { AppComponent } from './app/app.component';
 import { AppModule } from './app/app.module';
 import { DynamicLoader } from './app/dynamic.loader';
+import 'hammerjs';
 
 export default function(rootId: any) {
 	platformBrowserDynamic()

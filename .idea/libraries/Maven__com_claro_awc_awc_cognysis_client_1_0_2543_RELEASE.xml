@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.claro.awc:awc-cognysis-client:1.0.2543-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/claro/awc/awc-cognysis-client/1.0.2543-RELEASE/awc-cognysis-client-1.0.2543-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/claro/awc/awc-cognysis-client/1.0.2543-RELEASE/awc-cognysis-client-1.0.2543-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/claro/awc/awc-cognysis-client/1.0.2543-RELEASE/awc-cognysis-client-1.0.2543-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

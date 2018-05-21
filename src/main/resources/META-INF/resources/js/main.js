@@ -1,4 +1,4 @@
-define(["require", "exports", "@angular/platform-browser-dynamic", "./app/app.component", "./app/app.module", "./app/dynamic.loader"], function (require, exports, platform_browser_dynamic_1, app_component_1, app_module_1, dynamic_loader_1) {
+define(["require", "exports", "@angular/platform-browser-dynamic", "./app/app.component", "./app/app.module", "./app/dynamic.loader", "hammerjs"], function (require, exports, platform_browser_dynamic_1, app_component_1, app_module_1, dynamic_loader_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     function default_1(rootId) {
